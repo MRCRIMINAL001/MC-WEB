@@ -28,11 +28,7 @@
 <li><b>Dork Scanner </li></b>
 
 
-<h3><b>📸Screenshot : </b></h3>
-<br>
-<img src="https://github.com/Nabil-Official/N-WEB/blob/main/n-webv2.png?raw=true">
-<br>
-<br>
+
 <h2><b>[+] INSTALLATION : </b></h2>
 <h3><b>apt update && apt upgrade</b></h3>
 <h3><b>pkg install git -y</b></h3>
