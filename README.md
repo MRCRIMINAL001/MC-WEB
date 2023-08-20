@@ -36,7 +36,7 @@
 <h3><b>pkg install php -y</b></h3>
 <h3><b>pkg install nmap -y</b></h3>
 <h3><b>git clone https://github.com/MrcriminalS3UX/MC-WEB</b></h3>
-<h3><b>cd N-WEB</b></h3>
+<h3><b>cd MC-WEB</b></h3>
 <h3><b>pip2 install -r requirements.txt</b></h3>
 <h2><i>[+] For Run :</i></h2>
 <h3><b>python2 n-web.py</b></h3>
