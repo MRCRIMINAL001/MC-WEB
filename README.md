@@ -39,7 +39,7 @@
 <h3><b>cd MC-WEB</b></h3>
 <h3><b>pip2 install -r requirements.txt</b></h3>
 <h2><i>[+] For Run :</i></h2>
-<h3><b>python2 mc-web.py</b></h3>
+<h3><b>python2 nc-web.py</b></h3>
 <br>
 <h2> It Provide Only For Legal Activities | If You Misuse It We Are Not Responsible For This</h2>
 <br>
